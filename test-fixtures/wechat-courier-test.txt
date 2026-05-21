@@ -1,0 +1,5 @@
+WeChat Courier file-send test.
+
+If this file appears in WeChat File Transfer Assistant, queue-based file sending
+works from Termius -> Mac watcher -> desktop WeChat.
+

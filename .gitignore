@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+# Local runtime state. These files may contain personal chat names,
+# message previews, queue IDs, and delivery results.
+queue/
+
+# Debug screenshots should not be published.
+*.png
+*.jpg
+*.jpeg
