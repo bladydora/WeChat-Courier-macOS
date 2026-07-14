@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.1",
+  "skill_id": "wechat-courier-publish",
+  "status": "active",
+  "source": {
+    "type": "ying-local-tool",
+    "path": "AI/L2_architecture/tools/WeChat-Courier-macOS-publish/skills/wechat-courier/SKILL.md",
+    "created_by": "unknown"
+  },
+  "usage": {
+    "count": 0,
+    "last_used_at": null,
+    "last_used_by": null,
+    "recent_sessions": [],
+    "by_source": {},
+    "recent_events": []
+  },
+  "lifecycle": {
+    "state": "low-frequency",
+    "validation": "pending-validation",
+    "superseded_by": null,
+    "notes": "当前安装入口指向本发布版，但尚无带正式 SES-* 的真实使用证据；保留 active 与 count=0，下一次真实发送时由记录器写入首条事件。"
+  },
+  "evolution": {
+    "last_reviewed_at": "2026-06-02",
+    "intake_candidates": [],
+    "notes": "Initial provenance sidecar added by YING self-evolution update."
+  }
+}
